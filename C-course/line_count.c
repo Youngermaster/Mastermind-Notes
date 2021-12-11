@@ -1,6 +1,5 @@
 #include <stdio.h>
 
-/* cuenta los caracteres de entrada */
 main() {
     int c, nl, wc, tc;
 
